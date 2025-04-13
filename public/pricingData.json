@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": "$29/month",
+        "popular": false,
+        "description": "Perfect for beginners who want to get started on their fitness journey.",
+        "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "Free Wi-Fi",
+        "1 guest pass/month",
+        "Access during staffed hours only",
+        "Fitness assessment (1x)",
+        "Mobile app workout tracking"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": "$49/month",
+        "popular": true,
+        "description": "A great choice for regular gym-goers who want extra perks.",
+        "features": [
+        "Everything in Basic Plan",
+        "Unlimited group fitness classes",
+        "Sauna & steam room access",
+        "3 guest passes/month",
+        "1 free personal training session",
+        "24/7 access with key card",
+        "Discounts on merchandise (10%)",
+        "Member challenges & rewards"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": "$79/month",
+        "popular": false,
+        "description": "For serious fitness enthusiasts who want it all.",
+        "features": [
+        "Everything in Standard Plan",
+        "Unlimited personal training (1x/week)",
+        "Nutrition consultation",
+        "Priority class booking",
+        "Free branded gym gear (shirt or water bottle)",
+        "6 guest passes/month",
+        "Massage therapy (1/month)",
+        "Dedicated fitness coach",
+        "Exclusive workshops & events"
+        ]
+    }
+]
